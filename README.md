@@ -29,7 +29,7 @@
 
 ### 📫 Connect with me
 
-- GitHub: [github.com/your-username](https://github.com/your-username)
+- GitHub: [github.com/your-username](https://github.com/AndriyAtWork25)
 - LinkedIn: Coming soon
 - Email: andriy.tsar8@gmail.com
 
