@@ -16,6 +16,17 @@
 
 ---
 
+### 🌍 Languages I Speak
+
+-  Ukrainian (native)
+-  Russian (native)
+-  English (advanced C1)
+-  German (near native)
+-  Spanish (intermediate B1)
+
+
+---
+
 ### 🚀 Featured Projects
 
 🗂️ **[Task Manager App](https://github.com/AndriyAtWork25/TaskManagerAPI)**  
