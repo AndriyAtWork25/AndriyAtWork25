@@ -18,7 +18,7 @@
 
 ### 🚀 Featured Projects
 
-🗂️ **[Task Manager App](https://github.com/your-username/task-manager)**  
+🗂️ **[Task Manager App](https://github.com/AndriyAtWork25/TaskManagerAPI)**  
 > A full-featured task management system with user authentication and private routes.  
 > 🧩 Node.js + Express + MongoDB + JWT + Joi + Swagger + React  
 > ✅ Includes frontend + backend, validation, full CRUD, centralized error handling.
