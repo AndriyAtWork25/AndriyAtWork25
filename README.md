@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm Andriy 👋</h1>
+<h1 align="center">Welcome, i am Andriy, an aspiring Junior Backend Developer based in Germany</h1>
 
 💻 I’m a self-taught Junior Backend Developer based in Germany, with a strong passion for building scalable web applications and growing into a Fullstack Engineer.  
 📍 I have permanent residency (PR) and a valid work permit in Germany. Planning to relocate to Hamburg.  
