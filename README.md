@@ -34,6 +34,12 @@
 > 🧩 Node.js + Express + MongoDB + JWT + Joi + Swagger + React  
 > ✅ Includes frontend + backend, validation, full CRUD, centralized error handling.
 
+🗂️ **[Sherlock’s Blog API](https://github.com/AndriyAtWork25/Detective-blog.git)**
+
+> A secure and scalable blogging API built with Node.js, Express, and MongoDB.
+> 🧩 Features authentication (JWT), password recovery via SendGrid, Swagger docs, and RESTful CRUD for posts.
+> ✅ Includes token-based access control, input validation, and modular architecture.
+
 *(More projects coming soon...)*
 
 ---
