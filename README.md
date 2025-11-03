@@ -40,6 +40,11 @@
 > 🧩 Features authentication (JWT), password recovery via SendGrid, Swagger docs, and RESTful CRUD for posts.
 > ✅ Includes token-based access control, input validation, and modular architecture.
 
+
+🗂️ **[smart-task-automator](https://github.com/AndriyAtWork25/smart-task-automator.git)**
+
+A **rule-based automation platform** built with **Node.js**, **Express**, and **MongoDB**. ⚡ Features dynamic triggers (time, event, webhook), background worker execution, and integrations with **Telegram Bot API** and **HTTP requests**. 🧠 Includes modular architecture, JWT authentication, Swagger documentation, and a modern front-end UI for creating, managing, and monitoring automation rules in real time.
+
 *(More projects coming soon...)*
 
 ---
@@ -47,16 +52,17 @@
 ### 📫 Connect with me
 
 - GitHub: [github.com/AndriyAtWork25](https://github.com/AndriyAtWork25)
-- LinkedIn: Coming soon
+- LinkedIn: https://www.linkedin.com/in/andriy-tsar/
 - Email: andriy.tsar8@gmail.com
 
 ---
 
-### 🎯 2025 Goals
+### 🎯 2025, 2026 Goals
 
 - 🔹 Land my first Junior Backend Developer role
 - 🔹 Build 5+ production-level projects
 - 🔹 Transition toward Fullstack Development
+- 🔹 Improve my skills
 
 Thanks for visiting my profile! 🙏
 
