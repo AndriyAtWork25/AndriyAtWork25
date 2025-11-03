@@ -43,7 +43,9 @@
 
 🗂️ **[smart-task-automator](https://github.com/AndriyAtWork25/smart-task-automator.git)**
 
-A **rule-based automation platform** built with **Node.js**, **Express**, and **MongoDB**. ⚡ Features dynamic triggers (time, event, webhook), background worker execution, and integrations with **Telegram Bot API** and **HTTP requests**. 🧠 Includes modular architecture, JWT authentication, Swagger documentation, and a modern front-end UI for creating, managing, and monitoring automation rules in real time.
+> A **rule-based automation platform** built with **Node.js**, **Express**, and **MongoDB**.
+> ⚡ Features dynamic triggers (time, event, webhook), background worker execution, and integrations with **Telegram Bot API** and **HTTP requests**.
+> 🧠 Includes modular architecture, JWT authentication, Swagger documentation, and a modern front-end UI for creating, managing, and monitoring automation rules in real time.
 
 *(More projects coming soon...)*
 
