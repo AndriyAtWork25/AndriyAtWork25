@@ -52,8 +52,6 @@
 > 🔗 **Live Demo:** [smart-task-automator.onrender.com](https://smart-task-automator.onrender.com)  
 > 📘 **Swagger Docs:** [smart-task-automator.onrender.com/api-docs](https://smart-task-automator.onrender.com/api-docs)
 
-*(More projects coming soon...)*
-
 
 *(More projects coming soon...)*
 
