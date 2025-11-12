@@ -29,21 +29,6 @@
 
 ### 🚀 Featured Projects
 
-🗂️ **[Task Manager App](https://github.com/AndriyAtWork25/TaskManagerAPI)**  
-> A full-featured task management system with user authentication and private routes.  
-> 🧩 Node.js + Express + MongoDB + JWT + Joi + Swagger + React  
-> ✅ Includes frontend + backend, validation, full CRUD, centralized error handling.  
-> 🔗 **Live Demo:** *(coming soon)*
-
----
-
-🗂️ **[Sherlock’s Blog API](https://github.com/AndriyAtWork25/Detective-blog.git)**  
-> A secure and scalable blogging API built with Node.js, Express, and MongoDB.  
-> 🧩 Features authentication (JWT), password recovery via SendGrid, Swagger docs, and RESTful CRUD for posts.  
-> ✅ Includes token-based access control, input validation, and modular architecture.  
-> 🔗 **Live Demo:** *(coming soon)*
-
----
 
 🗂️ **[Smart Task Automator](https://github.com/AndriyAtWork25/smart-task-automator.git)**  
 > A **rule-based automation platform** built with **Node.js**, **Express**, and **MongoDB**.  
@@ -51,6 +36,24 @@
 > 🧠 Includes modular architecture, JWT authentication, Swagger documentation, and a modern front-end UI for creating, managing, and monitoring automation rules in real time.  
 > 🔗 **Live Demo:** [smart-task-automator.onrender.com](https://smart-task-automator.onrender.com)  
 > 📘 **Swagger Docs:** [smart-task-automator.onrender.com/api-docs](https://smart-task-automator.onrender.com/api-docs)
+
+---
+
+🗂️ **[Sherlock’s Blog API](https://github.com/AndriyAtWork25/Detective-blog.git)**  
+> A secure and scalable blogging API built with Node.js, Express, and MongoDB.  
+> 🧩 Features authentication (JWT), password recovery via SendGrid, Swagger docs, and RESTful CRUD for posts.  
+> ✅ Includes token-based access control, input validation, and modular architecture.  
+> 🔗 **Live Demo:** [detective-blog.onrender.com](https://detective-blog.onrender.com)  
+> 📘 **Swagger Docs:** [detective-blog.onrender.com/api-docs](https://detective-blog.onrender.com/api-docs)
+
+---
+
+🗂️ **[Task Manager App](https://github.com/AndriyAtWork25/TaskManagerAPI)**  
+> A full-featured task management system with user authentication and private routes.  
+> 🧩 Node.js + Express + MongoDB + JWT + Joi + Swagger + React  
+> ✅ Includes frontend + backend, validation, full CRUD, centralized error handling.  
+> 🔗 **Live Demo:** [taskmanagerapi-1-jmb2.onrender.com](https://taskmanagerapi-1-jmb2.onrender.com)  
+> 📘 **Swagger Docs:** [taskmanagerapi-1-jmb2.onrender.com/api-docs](https://taskmanagerapi-1-jmb2.onrender.com/api-docs)
 
 
 *(More projects coming soon...)*
