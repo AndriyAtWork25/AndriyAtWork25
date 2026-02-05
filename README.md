@@ -59,7 +59,7 @@
 
 🗂️ **[Portfolio Website](https://github.com/AndriyAtWork25/andriy-portfolio)**
 > A modern and responsive personal portfolio showcasting my work as a Back-End Developer.
-> 🧩 HTML + CSS + JavaScript + GitHub Pages
+> 🧩 HTML + CSS + JavaScript + GitHub Pages.
 > ✅ Clean UI, smooth animations, projects overview, and downloadable CV.
 > 🔗 **Live Demo:** [Website Portfolio](https://andriyatwork25.github.io/andriy-portfolio/)
 
