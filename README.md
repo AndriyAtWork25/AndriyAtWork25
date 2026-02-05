@@ -1,8 +1,8 @@
 <h1 align="center">Welcome! 
- I’m Andriy, an aspiring Fullstack / Backend Developer  based in Germany💻</h1>
+ I’m Andriy, an aspiring Backend Developer  based in Germany💻</h1>
 
-💻 I’m a Junior Backend Developer based in Germany, with a strong passion for building scalable web applications and growing into a Fullstack Engineer.   
-🛠️ Actively building projects, improving my skills, and looking for my first role in the tech industry.
+💻 I’m a Backend Developer based in Germany, with a strong passion for building scalable web applications and growing into a Fullstack Engineer.   
+🛠️ Actively building projects, improving my skills.
 
 ---
 
@@ -54,6 +54,14 @@
 > ✅ Includes frontend + backend, validation, full CRUD, centralized error handling.  
 > 🔗 **Live Demo:** [taskmanagerapi-1-jmb2.onrender.com](https://taskmanagerapi-1-jmb2.onrender.com)  
 > 📘 **Swagger Docs:** [taskmanagerapi-1-jmb2.onrender.com/api-docs](https://taskmanagerapi-1-jmb2.onrender.com/api-docs)
+
+---
+
+🗂️ **[Portfolio Website](https://github.com/AndriyAtWork25/andriy-portfolio)**
+> A modern and responsive personal portfolio showcasting my work as a Back-End Developer.
+> 🧩 HTML + CSS + JavaScript + GitHub Pages
+> ✅ Clean UI, smooth animations, projects overview, and downloadable CV.
+> 🔗 **Live Demo:** [Website Portfolio](https://andriyatwork25.github.io/andriy-portfolio/)
 
 
 *(More projects coming soon...)*
