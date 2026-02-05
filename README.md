@@ -78,7 +78,7 @@
 
 ### 🎯 2025, 2026 Goals
 
-- 🔹 Land my first Junior Backend Developer role
+
 - 🔹 Build 5+ production-level projects
 - 🔹 Transition toward Fullstack Development
 - 🔹 Improve my skills
