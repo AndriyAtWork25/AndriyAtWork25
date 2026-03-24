@@ -61,7 +61,16 @@
 > A modern and responsive personal portfolio showcasing my work as a Back-End Developer.   
 > 🧩 HTML · CSS · JavaScript · GitHub Pages    
 > ✅ Clean UI, smooth animations, projects overview, and downloadable CV.
-> 🔗 **Live Demo:** [Portfolio Website](https://andriyatwork25.github.io/andriy-portfolio/) 
+> 🔗 **Live Demo:** [Portfolio Website](https://andriyatwork25.github.io/andriy-portfolio/)
+
+---
+
+🗂️ **[auto-service Business-Website](https://github.com/AndriyAtWork25/autoservice-ehra)**
+> Modern, responsive website built for a local car service business in Ehra.
+> 🧩 Next.js  · React  · Tailwind CSS
+> ✅ Fully responsive (mobile-first), Call-to-action buttons (Call & WhatsApp), Modern and clean design, SEO basics implemented,
+Optimized for free hosting (e.g. Vercel)
+> 🔗 **Live Demo:** [auto-service Business Website](https://autoservice-ehra.vercel.app)
 
 
 *(More projects coming soon...)*
